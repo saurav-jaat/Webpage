@@ -1,0 +1,54 @@
+body{
+	background: #808080;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #3fada8, #808080);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #3fada8, #808080); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+	
+	
+}
+.container1{
+	background-image: url("https://images.unsplash.com/photo-1468273519810-d3fe4c125cdb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80");
+	height: 300px;
+}
+
+.fa-home{
+	padding: 0;
+}
+.demo{
+	width: 90%;
+	height: auto;
+	padding-top: 15%;
+	padding-left: 10%;
+	
+}
+.jumbotron1{
+	
+	width: 70%;
+	margin:10% auto;
+	background-color:#3fada8;
+	text-align: center;
+	
+
+}
+.jumbotron{
+	font-family: 'Neuton', serif;
+	font-size: large;
+	
+}
+.jumbotron-content{
+	background-color: 	#c2c2c2;
+}
+.navbar{
+	font-family: 'Concert One', cursive;
+	font-size: large;
+}
+.page-footer{
+	font-family: 'Averia Sans Libre', cursive;
+	
+	color: white;
+}
+h1{
+	font-size: 5rem;
+}

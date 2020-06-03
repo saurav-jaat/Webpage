@@ -1,0 +1,98 @@
+body{
+	background-image: url("https://images.unsplash.com/photo-1453928582365-b6ad33cbcf64?ixlib=rb-1.2.1&auto=format&fit=crop&w=1352&q=80");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+
+	
+	
+}
+.jumbotron{
+	padding-top: 40px;
+	margin-top:5%;;
+	background-color:#34ebeb;
+}
+.j1{
+	margin-left:10%;
+	margin-right: 10%;
+	margin-top: 0;
+	padding-right: 2%
+}
+.container{
+	margin-top: 200px;;
+	margin-bottom:110px;
+}
+.last-container{
+	margin-bottom: 0;
+
+}
+#para1{
+	padding-left: 10px;
+	border-left: 2px solid #989ca3;
+}
+.navbar1{
+	margin-bottom: 2%;
+	color: #e1f0ff;
+	font-family: 'Concert One', cursive;
+	font-size: large;
+}
+
+
+.blockquote-footer{
+	padding-left: 40px;
+}
+
+.j3{
+	margin-left: 10%;
+	margin-right: 50%;
+	background-color: #30bdb7b5;
+}
+.progress{
+	height: 30px;;
+	margin-bottom: 20px;;
+}
+.abc{
+	margin-top: 100px;
+}
+.j4
+{
+	border: 2px solid black;
+	margin-left: 10%;
+	margin-right: 30%;
+	color: black;
+}
+.j5{
+	margin-left:10% ;
+	margin-right: 10%;
+	background-color: #9e9e9ee0;
+}
+.btn-info{
+	background-color: grey;
+	color: black;
+	border:1px solid black;
+}
+
+  /* Add a hover effect if you want */
+  .fa:hover {
+	opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+ 
+ .xyz{
+	 margin-right: 10%;
+ }
+ .j2{
+	background-color:  #30bdb7b5;
+	border:1px solid #30bdb7b5;
+	margin-left: 10%;
+	margin-right: 30%;
+}
+
+.page-footer{
+	font-family: 'Averia Sans Libre', cursive;
+	
+	color: white;
+}

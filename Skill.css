@@ -1,0 +1,53 @@
+
+body{
+	background: #ADA996;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	
+font-family: 'Roboto', sans-serif;
+}
+.jumbo1{
+	background-image: url("https://images.unsplash.com/photo-1546146830-2cca9512c68e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: contain;
+	background-position: center;
+	text-align:center;
+	font-family: 'Kanit', sans-serif;
+	font-size: larger;
+
+}
+.fa-home{
+	padding: 0;
+}
+.c1{
+	padding-top: 4%;
+	
+}
+.jumbo2{
+	margin-left: 10%;
+	margin-right: 10%;
+	color: black;
+
+	font-family: 'Kanit', sans-serif;
+	font-weight: 600;
+
+	
+}
+.page-footer{
+	font-family: 'Averia Sans Libre', cursive;
+	
+	color: white;
+}
+.navbar{
+	font-family: 'Concert One', cursive;
+	font-size: large;
+}
+.card{
+	font-family: 'Kanit', sans-serif;
+	font-weight: 600;
+
+}
+h1{
+	font-size: 60px;
+}
